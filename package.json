@@ -1,0 +1,13 @@
+{
+  "name": "@mplabs/root",
+  "version": "1.0.0",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Felix Dürrwald <mplabs@mplabs.de>",
+  "license": "ISC"
+}
