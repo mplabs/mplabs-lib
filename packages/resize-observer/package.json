@@ -1,0 +1,8 @@
+{
+    "name": "@mplabs/resize-observer",
+    "version": "1.0.0",
+    "description": "Better ResizeObserver API",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
+}
