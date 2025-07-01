@@ -1,5 +1,6 @@
 {
   "name": "@mplabs/root",
+  "description": "Monorepo with web APIs for better performance and usability",
   "version": "1.0.0",
   "workspaces": [
     "packages/*"
