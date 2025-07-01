@@ -1,0 +1,8 @@
+{
+    "name": "@mplabs/intersection-observer",
+    "version": "1.0.0",
+    "description": "Better IntersectionObserver API",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
+}
